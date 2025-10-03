@@ -11,7 +11,6 @@ const Nav = () => {
         <ul className="flex justify-evenly items-center gap-5 mx-5">
           <li>Add photo</li>
           <li>Remove photo</li>
-          <li>Ok</li>
         </ul>
       </div>
     </nav>
